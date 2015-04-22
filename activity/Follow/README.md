@@ -3,7 +3,7 @@
 
 Act of following another agent
 
-* property: **[follows](../../verb/follows)**
+* property: **[follows](../../property/follows)**
 * qualified relation: **[Following](../../qualified-relation/Following)**
 
 ![follows](https://docs.google.com/drawings/d/1zFWdjo_phs60Lr7dyoXyd4PQ9hOBxadlU8FZDQIAPHg/pub?w=960&h=540)
