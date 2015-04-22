@@ -3,8 +3,15 @@
 
 Relationship where one agent follows another agent.
 
-* verb: **[follows](../../verb/follows)**
-* activity: **[Follow](../../activity/Follow)**
+* property: **[follows](../../property/follows)**
+* subject: **[Agent](../../agent/Agent)**
+* object: **[Agent](../../agent/Agent)**
+* activity: **[Follow](../../activity/Follow)**, **[Unfollow](../../activity/Unfollow)**
+
+## Examples
+
+### Person following Person
+*elf Pavlik following Amy Guy*
 
 ![Following](https://docs.google.com/drawings/d/1K0KRBQEdIm3eMLh1YZKgw44m5516lpvKcqSkTcJPIls/pub?w=960&h=540)
 
