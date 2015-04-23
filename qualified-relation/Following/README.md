@@ -20,7 +20,7 @@ Relationship where one agent follows another agent.
   :name "Amy Guy" .
 
 <https://wwelves.org/perpetual-tripper> a :Person ;
-  :name "elf Pavlik* ;
+  :name "elf Pavlik" ;
   :follows <https://rhiaro.co.uk> .
 
 <https://wwelves.org/perpetual-tripper/rel/3242> a :Following ;

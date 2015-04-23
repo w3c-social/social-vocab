@@ -8,9 +8,10 @@ Inspired by http://lov.okfn.org, http://schema.org and http://microformats.org
 
 * Individual
  * Person
- * Bot
 * Group
  * Organization
+* Daemon
+ * Bot
 
 ### Object
 
@@ -24,6 +25,7 @@ Inspired by http://lov.okfn.org, http://schema.org and http://microformats.org
  * Clothing
 * Intangible
  * CreativeWork
+* SoftwareApplication
 
 ### Activity
 
@@ -45,6 +47,7 @@ Inspired by http://lov.okfn.org, http://schema.org and http://microformats.org
 * Edit
 
 ### Qualified Relation
+* [Containment](qualified-relation/Containment)
 * [Following](qualified-relation/Following)
 * Subscription
 * [Membership](qualified-relation/Membership)
@@ -54,17 +57,22 @@ Inspired by http://lov.okfn.org, http://schema.org and http://microformats.org
 
 * [DirectContainer](container/DirectContainer)
 * Collection
+ * MediaGallery
+ * AddressBook
+ * SubscriptionList
 * Stream
 * Feed
  * EventCalendar
  * GeoFeed
 * Channel
+ * MediaChannel
  * MailingList
  * ChatChannel
 * Wiki
 
 ## Object Property
 
+* [contains](property/contains)
 * [follows](property/follows)
 * subscribes
 * [member](property/member)
