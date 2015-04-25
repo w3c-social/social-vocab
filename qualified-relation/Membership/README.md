@@ -26,7 +26,7 @@ Relationship where a group has a member.
 
 <https://wwelves.org/perpetual-tripper/rel/3242> a :Membership ;
   rdf:subject <http://www.w3.org/Social/WG> ;
-  rdf:predicate : member ;
+  rdf:predicate :member ;
   rdf:object <https://wwelves.org/perpetual-tripper> ;
   :startTime "10 Sep 2014" .
 ```
