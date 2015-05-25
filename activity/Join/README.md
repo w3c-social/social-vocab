@@ -51,7 +51,7 @@ Act of an agent joining a group or an event
 <https://wwelves.org/perpetual-tripper/rel/19012> a :Attendance
   rdf:subject <https://www.w3.org/wiki/Socialwg/2015-05-04> ;
   rdf:object <https://wwelves.org/perpetual-tripper> ;
-  rdf:predicate :member ;
+  rdf:predicate :attendee ;
   :startTime "18 Mar 2015" .
 
 <https://wwelves.org/perpetual-tripper/log/20153> a :Join ;
