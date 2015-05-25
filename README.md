@@ -1,5 +1,6 @@
 # Social Vocabulary
-Experiment with maintaining a living vocabulary for Social Web.
+Experiment with maintaining a documentation of living vocabulary for Social Web. Not intending to mint new URIs for terms, but instead reuse existing ones and document how one can use them all together by providing illustrated examples!
+
 Inspired by http://lov.okfn.org, http://schema.org and http://microformats.org
 
 ## Class
@@ -12,20 +13,18 @@ Inspired by http://lov.okfn.org, http://schema.org and http://microformats.org
  * Organization
 * Daemon
  * Bot
+ * Service
 
 ### Object
 
-* Event
+* App (SoftwareApplication)
+* Event (social event, distinct from Activity)
 * Place
-* Project
- * Innovation
 * Tangible
  * Vehicle
  * Device
- * Clothing
 * Intangible
- * CreativeWork
-* SoftwareApplication
+ * CreativeWork (also Project)
 
 ### Activity
 
@@ -39,8 +38,8 @@ Inspired by http://lov.okfn.org, http://schema.org and http://microformats.org
 * Accept
 * Reject
 * [Travel](activity/Travel)
-* Arrive (aka. CheckIn)
-* Depart (aka. CheckOut)
+* Arrive (also CheckIn?)
+* Depart (also CheckOut?)
 * [Transport](activity/Transport)
 * Write
 * Read
@@ -52,6 +51,7 @@ Inspired by http://lov.okfn.org, http://schema.org and http://microformats.org
 * Subscription
 * [Membership](qualified-relation/Membership)
 * [Attendance](qualified-relation/Attendance)
+* Invitation
 
 ### Container
 
@@ -77,6 +77,7 @@ Inspired by http://lov.okfn.org, http://schema.org and http://microformats.org
 * subscribes
 * [member](property/member)
 * [attendee](property/attendee)
+* invitee
 * stays
 * likes
 * achieves
