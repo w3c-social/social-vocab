@@ -30,7 +30,7 @@ Inspired by http://lov.okfn.org, http://schema.org and http://microformats.org
 
 * [Follow](activity/Follow)
 * Unfollow
-* Subscribe
+* [Subscribe](activity/Subscribe)
 * Unsubscribe
 * [Join](activity/Join)
 * [Leave](activity/Leave)
