@@ -1,7 +1,7 @@
 # Social Vocabulary
 Experiment with maintaining a documentation of living vocabulary for Social Web. Not intending to mint new URIs for terms, but instead reuse existing ones and document how one can use them all together by providing illustrated examples!
 
-Inspired by http://lov.okfn.org, http://schema.org and http://microformats.org
+Inspired by http://lov.okfn.org, http://schema.org, http://microformats.org and http://vocab.org
 
 ## Class
 
