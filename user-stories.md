@@ -8,9 +8,9 @@ Prior work: https://www.w3.org/wiki/Socialig/Vocabulary_TF/Mapping_API_User_Stor
 Story | Agent | Activity | Object | ObjectProperty | DataProperty
 ------|-------|----------|--------|----------------|-------------
 [SWAT0](https://www.w3.org/wiki/Socialwg/SWAT0) | 
-[User posts a note](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#User_posts_a_note) | 
-[Reading a user's recent posts](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Reading_a_user.27s_recent_posts) | 
-[Following a Person](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Following_a_person) | 
+[User posts a note](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#User_posts_a_note) | Person | Write, Publish, Edit, Delete | Note | follows | 
+[Reading a user's recent posts](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Reading_a_user.27s_recent_posts) | Person | Read | Comment, Photo | feed |
+[Following a Person](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Following_a_person) | Person | Follow, Unfollow | Photo, Collection | inbox, outbox, follows |
 [Inbox](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Inbox) | 
 [User posts a file](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#User_posts_a_file) | 
 [Responses](https://www.w3.org/wiki/Socialwg/Social_API/User_stories#Responses) | 
