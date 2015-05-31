@@ -3,6 +3,8 @@ Experiment with maintaining a documentation of living vocabulary for Social Web.
 
 Inspired by http://lov.okfn.org, http://schema.org, http://microformats.org and http://vocab.org
 
+Please also see [mapping to User Stories](https://github.com/w3c-social/social-vocab/blob/master/user-stories.md)
+
 ## Class
 
 ### Agent
