@@ -27,6 +27,8 @@ Please also see [mapping to User Stories](https://github.com/w3c-social/social-v
  * Device
 * Intangible
  * CreativeWork (also Project)
+  * Article
+  * Note
 
 ### Activity
 
@@ -44,6 +46,7 @@ Please also see [mapping to User Stories](https://github.com/w3c-social/social-v
 * Depart (also CheckOut?)
 * [Transport](activity/Transport)
 * Write
+* View
 * Read
 * Edit
 
@@ -62,26 +65,37 @@ Please also see [mapping to User Stories](https://github.com/w3c-social/social-v
  * MediaGallery
  * AddressBook
  * SubscriptionList
+ * BookmarkFolder
+  * FavouriteThings
+ * WishList
+  * OfferList
+  * DemandList
 * Stream
 * Feed
- * EventCalendar
+ * [Calendar](container/Calendar)
  * GeoFeed
+ * Microblog
+ * Weblog
 * Channel
  * MediaChannel
  * MailingList
+ * MessageBoard
  * ChatChannel
 * Wiki
+
+## Verb
+
+* [follows](property/follows)
+* [likes](verb/likes)
 
 ## Object Property
 
 * [contains](property/contains)
-* [follows](property/follows)
 * subscribes
 * [member](property/member)
 * [attendee](property/attendee)
 * invitee
 * stays
-* likes
 * achieves
 
 ## Data Property
