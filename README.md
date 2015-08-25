@@ -85,8 +85,9 @@ Please also see [mapping to User Stories](https://github.com/w3c-social/social-v
 
 ## Verb
 
-* [follows](property/follows)
 * [likes](verb/likes)
+* [follows](property/follows)
+* [friends](verb/friends)
 
 ## Object Property
 
