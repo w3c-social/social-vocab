@@ -11,7 +11,7 @@ An agent friending another agent
 
 ## Examples
 
-### Person likes Video
+### Two people friend each other
 *elf Pavlik and Justine Testing friend each other*
 
 ![likes](https://docs.google.com/drawings/d/19ec81cfmoDwGjnQSADEduO7PpdacO0Y8k2YGgepyW_c/pub?w=1161&h=584)
